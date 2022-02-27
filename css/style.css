@@ -1,0 +1,182 @@
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_part {
+    background-color: #F0FFF0;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 700px;
+    color: #56548C;
+}
+
+.logo a img {
+    width: 190px;
+    margin-top: 20px;
+}
+
+.singin_btn a .btn-primary {
+    background-image: linear-gradient(to right, #21B573, #48eba1);
+    border: none;
+    border-radius: 35px;
+    padding: 12px 28px;
+    box-shadow: none;
+}
+
+.top_p {
+    margin-top: 70px;
+    color: #FD511A;
+}
+
+.banner_h1 {
+    width: 300px;
+}
+
+span {
+    color: #21B573;
+}
+
+.header_txt {
+    width: 350px;
+    margin-top: 30px;
+    line-height: 36px;
+    font-size: 16px;
+    color: #6C6B6B;
+}
+
+.nav_bar {
+    margin-bottom: 20px;
+}
+
+.banner_img img {
+    width: 655px;
+}
+
+.button_buy a .btn-primary {
+    background-image: linear-gradient(to right, #21B573, #48eba1);
+    border: none;
+    border-radius: 35px;
+    box-shadow: none;
+    text-align: center;
+}
+
+.icons {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.topic .icon img {
+    width: 66px;
+    margin-bottom: 15px;
+}
+
+.topic {
+    /* margin: 90px; */
+    /* padding: 10px; */
+    background-color: #F8FFFB;
+    text-align: center;
+    width: 270px;
+    padding: 25px;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+strong {
+    font-size: 24px;
+    font-weight: 500;
+    color: #413960;
+}
+
+.icons_txt {
+    font-size: 16px;
+    color: #585859;
+}
+
+.topic:hover {
+    background-color: #FFF;
+    box-shadow: 2px 5px 7px #E5E5E5;
+}
+
+.common_heading {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #413960;
+    text-transform: capitalize;
+}
+
+.card {
+    border: none;
+    width: 370px;
+    margin-top: 30px;
+}
+
+.card-footer {
+    float: left;
+}
+
+.calender img {
+    width: 18px;
+}
+
+.people img {
+    width: 18px;
+}
+
+.card_ft_part {
+    margin-top: 10px;
+}
+
+.card_ft_part p {
+    font-size: 14px;
+    color: #585859;
+}
+
+.test_heading {
+    margin-top: 60px;
+    color: #000;
+}
+
+.test_part {
+    margin-top: 60px;
+}
+
+.test_img img {
+    width: 120px;
+}
+
+.test_text {
+    width: 550px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: #282531;
+}
+
+.ft_text {
+    width: 320px;
+}
+
+.simple_txt {
+    color: white;
+    margin-top: 30px;
+}
+
+.text_content {
+    /* padding: 10px; */
+    padding-top: 30px;
+}
+
+.copy_wright {
+    text-align: center;
+    font-size: 13px;
+    padding: 20px 5px 0px;
+}
